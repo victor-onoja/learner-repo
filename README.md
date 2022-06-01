@@ -1,3 +1,3 @@
-# lerna-repo 2
+# learna-repo 2
 
 moving up.
